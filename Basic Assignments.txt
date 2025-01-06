@@ -1,0 +1,22 @@
+Task on ENUM
+
+Create an enum named Color with three constants: RED, GREEN, and BLUE.
+In the main method, print each color individually by accessing the constants directly.
+String Task:
+
+Ask the user to input a word.
+Print:
+The word in uppercase.
+The length of the word.
+
+
+
+
+Task on String
+
+
+Ask the user to input their name.
+Perform the following operations on the input string:
+Print the name in lowercase.
+Print the first character of the name.
+Check if the name contains the letter 'a' (case-insensitive) and print the result.
