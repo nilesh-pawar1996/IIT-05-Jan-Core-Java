@@ -1,0 +1,21 @@
+
+url for data - git clone https://github.com/nilesh-pawar1996/IIT-05-Jan-Core-Java.git
+
+
+Dear Students,
+
+### JDK
+* Windows and Mac:
+    * https://adoptium.net/temurin/releases/?version=11
+    * Download .msi/.dmg file and follow installation steps.
+
+1. Install JDK by selecting your Operating System,Architecture and Package Type(this should be JDK) and Version 11 -LTS
+2. Download .msi file.
+
+---------------------------------------------
+### STS
+
+https://download.springsource.com/release/STS/3.9.18.RELEASE/dist/e4.21/spring-tool-suite-3.9.18.RELEASE-e4.21.0-win32-x86_64.zip
+
+
+Please complete above step up today EOD.
