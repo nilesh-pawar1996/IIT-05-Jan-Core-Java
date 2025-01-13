@@ -1,0 +1,38 @@
+Customer sample records:
+
+1,'David','9895607810','david@gmail.com','Pune'
+2,'Raj','9994717174','raj@gmail.com','Mumbai'
+3,'Sanket','7891007810','sanket@gmail.com','Satara'
+4,'Laxman','8845607890','laxman@gmail.com','Kolhapur'
+5,'Dhruva','9595857565','dhruva@gmail.com','Sambhaji Nagar'
+6,'Rani','78654507898','rani@gmail.com','Jalgoen'
+7,'James','9970139252','james@gmail.com','Nashik'
+8,'Lalita','9325280026','lalita@gmail.com','Chalisgoen'
+9,'Pooja','8759068778','pooja@gmail.com','Nagpur'
+10,'Nilesh','9876543210','nilesh@gmail.com','Kolhapur'
+
+
+Vehicle sample records:
+
+1,'Honda','cb-unicorn'
+2,'Hero','splender'
+3,'Honda','activa'
+4,'Honda','shine125'
+5,'Yamaha','FZ160'
+6,'Hero','karizma'
+7,'Honda','Hornet'
+8,'TVS','jupiter'
+9,'TVS','apache160'
+10,'Bajaj','pulsar'
+
+
+
+parts sample record:
+1,'clutch','The clutch is a part of the transmission system next to the crankshaft',1000
+2,'battery','The car battery is also an essential component of car as it provides the electricity to car',4600
+3,'alternator','It provides energy the electrical components such as power steering systems,power windows',3000
+4,'radiator','important part of the car engine’s cooling system,helps to drain out the excess heat from the engine',4000
+5,'propeller shaft','The power is transferred to the wheels using the propeller shaft. It is also called a driveshaft.',5000
+6,'axles','It is nothing but shafts,used to mount the wheels,two types namely, Front Axle and Rear Axle',8000
+7,'timing belt','keep the engine intake and exhaust valves open and close simultaneously in time with the pistons',8000
+8,'seat','known as the saddle, is the part of the bike that the rider sits on.',1000
