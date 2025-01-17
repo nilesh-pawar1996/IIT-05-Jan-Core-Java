@@ -1,4 +1,4 @@
-package com.sunbeam.backend;
+package sunbeam.servicestation;
 
 import java.io.Serializable;
 
